@@ -34,7 +34,3 @@
 ![Haproxy](https://img.shields.io/badge/haproxy-3037ff?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
-## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=ademirovic&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ademirovic&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
